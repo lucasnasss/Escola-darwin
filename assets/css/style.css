@@ -1,0 +1,67 @@
+main{
+    overflow: hidden;
+}
+.box-contact {
+    background-color: rgb(12, 84, 143);
+    color: rgb(250, 250, 250);
+    padding: 10px 0 10px;
+    height:30px;
+    padding: 0px;
+}
+.redes {
+    font-size: 20px;
+    color: rgb(241, 130, 44);
+    margin-right: 10px; 
+}
+.redes span a{
+    color: rgb(241, 130, 44);
+}
+.redes span a:hover{
+    color: rgb(0, 0, 0);
+}
+.tel {
+    margin-left: 10px;
+}
+.navbar{
+    width: 100%;
+}
+.logo img{
+    width: 100px;
+}
+.slide img {
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+}
+.align-center{
+    text-align: center;
+}
+.align-justify{
+    text-align:justify;
+}
+.titulo  {
+    padding: 30px 0 30px;
+}
+.espacamento-top{
+    padding:30px 0 0;
+}
+.espacamento-bottom{
+    padding:0 0 30px;
+}
+
+#parceiros {
+    background-color: rgb(12, 84, 143);
+}
+#blog{
+    background-color: rgb(241, 130, 44);
+}
+#fotter {
+    background:rgb(241, 130, 44);
+}
+footer a{
+    text-decoration: none;
+    color: rgb(12, 84, 143);
+}
+footer a:hover{
+    color: rgb(0, 0, 0);
+}
